@@ -14,6 +14,7 @@ Modulos:
 - Generación de estadísticas
 	- Por Análisis
 	- Por Clientes
+	- Por Tipo de Análisis
 - Control de Libros
 
 [SRC SOLUTIONS C.A] (http://www.src.com.ve)
