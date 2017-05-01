@@ -12,5 +12,6 @@ Modulos:
 - Entrada de resultados
 - Generación de informe Técnico
 - Generación de estadísticas
+- Control de Libros
 
 [SRC SOLUTIONS C.A] (http://www.src.com.ve)
